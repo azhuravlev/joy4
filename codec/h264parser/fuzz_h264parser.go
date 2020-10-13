@@ -1,5 +1,5 @@
 package h264parser
-//go-fuzz-build -func=Fuzz_ParseSPS -o=Fuzz_ParseSPS.zip github.com/VKCOM/joy4/codec/h264parser
+//go-fuzz-build -func=Fuzz_ParseSPS -o=Fuzz_ParseSPS.zip github.com/azhuravlev/joy4/codec/h264parser
 //go-fuzz -dumpcover -bin=Fuzz_ParseSPS.zip -workdir=joy4/codec/h264parser/corpus_ParseSPS
 
 func Fuzz_SplitNALUs(data []byte) int {

@@ -3,11 +3,11 @@ package ts
 import (
 	"bufio"
 	"fmt"
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/codec/aacparser"
-	"github.com/VKCOM/joy4/codec/h264parser"
-	"github.com/VKCOM/joy4/format/ts/tsio"
-	"github.com/VKCOM/joy4/utils/bits/pio"
+	"github.com/azhuravlev/joy4/av"
+	"github.com/azhuravlev/joy4/codec/aacparser"
+	"github.com/azhuravlev/joy4/codec/h264parser"
+	"github.com/azhuravlev/joy4/format/ts/tsio"
+	"github.com/azhuravlev/joy4/utils/bits/pio"
 	"io"
 	"time"
 )

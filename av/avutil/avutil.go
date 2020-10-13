@@ -3,7 +3,7 @@ package avutil
 import (
 	"bytes"
 	"fmt"
-	"github.com/VKCOM/joy4/av"
+	"github.com/azhuravlev/joy4/av"
 	"io"
 	"net/url"
 	"os"

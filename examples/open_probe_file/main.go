@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/av/avutil"
-	"github.com/VKCOM/joy4/format"
+	"github.com/azhuravlev/joy4/av"
+	"github.com/azhuravlev/joy4/av/avutil"
+	"github.com/azhuravlev/joy4/format"
 	"github.com/sirupsen/logrus"
 )
 

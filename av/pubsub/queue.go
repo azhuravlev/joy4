@@ -2,8 +2,8 @@
 package pubsub
 
 import (
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/av/pktque"
+	"github.com/azhuravlev/joy4/av"
+	"github.com/azhuravlev/joy4/av/pktque"
 	"io"
 	"sync"
 	"time"

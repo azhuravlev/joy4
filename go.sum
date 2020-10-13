@@ -1,5 +1,5 @@
-github.com/VKCOM/joy4 v0.0.0-20190627144217-c4b6e26f04b4 h1:TtOJC2gJIKGulTufusX0T81UNmp/N9Hrq4KxK7U3sQY=
-github.com/VKCOM/joy4 v0.0.0-20190627144217-c4b6e26f04b4/go.mod h1:v4F8EMng9H8WBAiRGb7YMDn+N1QIURoBa6K/+B/rZ1c=
+github.com/azhuravlev/joy4 v0.0.0-20190627144217-c4b6e26f04b4 h1:TtOJC2gJIKGulTufusX0T81UNmp/N9Hrq4KxK7U3sQY=
+github.com/azhuravlev/joy4 v0.0.0-20190627144217-c4b6e26f04b4/go.mod h1:v4F8EMng9H8WBAiRGb7YMDn+N1QIURoBa6K/+B/rZ1c=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 h1:mweAR1A6xJ3oS2pRaGiHgQ4OO8tzTaLawm8vnODuwDk=

@@ -1,4 +1,4 @@
-module github.com/VKCOM/joy4
+module github.com/azhuravlev/joy4
 
 go 1.12
 

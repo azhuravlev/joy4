@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/VKCOM/joy4/av/avutil"
-	"github.com/VKCOM/joy4/format"
-	"github.com/VKCOM/joy4/format/rtmp"
+	"github.com/azhuravlev/joy4/av/avutil"
+	"github.com/azhuravlev/joy4/format"
+	"github.com/azhuravlev/joy4/format/rtmp"
 	"strings"
 )
 

@@ -1,13 +1,13 @@
 package format
 
 import (
-	"github.com/VKCOM/joy4/av/avutil"
-	"github.com/VKCOM/joy4/format/aac"
-	"github.com/VKCOM/joy4/format/flv"
-	"github.com/VKCOM/joy4/format/mp4"
-	"github.com/VKCOM/joy4/format/rtmp"
-	"github.com/VKCOM/joy4/format/rtsp"
-	"github.com/VKCOM/joy4/format/ts"
+	"github.com/azhuravlev/joy4/av/avutil"
+	"github.com/azhuravlev/joy4/format/aac"
+	"github.com/azhuravlev/joy4/format/flv"
+	"github.com/azhuravlev/joy4/format/mp4"
+	"github.com/azhuravlev/joy4/format/rtmp"
+	"github.com/azhuravlev/joy4/format/rtsp"
+	"github.com/azhuravlev/joy4/format/ts"
 )
 
 func RegisterAll() {

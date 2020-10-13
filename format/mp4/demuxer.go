@@ -6,10 +6,10 @@ import (
 	"io"
 	"time"
 
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/codec/aacparser"
-	"github.com/VKCOM/joy4/codec/h264parser"
-	"github.com/VKCOM/joy4/format/mp4/mp4io"
+	"github.com/azhuravlev/joy4/av"
+	"github.com/azhuravlev/joy4/codec/aacparser"
+	"github.com/azhuravlev/joy4/codec/h264parser"
+	"github.com/azhuravlev/joy4/format/mp4/mp4io"
 	"github.com/sirupsen/logrus"
 )
 

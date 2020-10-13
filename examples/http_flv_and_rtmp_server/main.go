@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/VKCOM/joy4/av/avutil"
-	"github.com/VKCOM/joy4/av/pubsub"
-	"github.com/VKCOM/joy4/format"
-	"github.com/VKCOM/joy4/format/flv"
-	"github.com/VKCOM/joy4/format/rtmp"
+	"github.com/azhuravlev/joy4/av/avutil"
+	"github.com/azhuravlev/joy4/av/pubsub"
+	"github.com/azhuravlev/joy4/format"
+	"github.com/azhuravlev/joy4/format/flv"
+	"github.com/azhuravlev/joy4/format/rtmp"
 	"io"
 	"net/http"
 	"sync"
